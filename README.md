@@ -46,10 +46,10 @@
 
 ## 📈 Activity & Fun  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=0e75b6&style=flat)  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10)  
-![Profile Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)  
+![Visitor Count](https://komarev.com/ghpvc/?username=ajokkuechajokdeng&label=Visitors&color=0e75b6&style=flat)  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-ajokkuechajokdeng&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajokkuechajokdeng&theme=radical&no-frame=true&margin-w=10)  
+![Profile Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajokkuechajokdeng&theme=react-dark)  
 
 ---
 
